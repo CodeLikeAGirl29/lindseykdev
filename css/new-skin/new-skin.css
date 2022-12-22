@@ -380,7 +380,7 @@ strong {
 
 p {
 	font-size: 16px;
-	line-height: 1.8em;
+	line-height: 1.2em;
 	margin: 0 0 25px 0;
 }
 
@@ -800,7 +800,7 @@ input[type="file"] {
 
 .card-started .profile .title,
 .content-sidebar .profile .title {
-	font-size: 34px;
+	font-size: 2.2rem;
 	color: #323232;
 }
 
@@ -933,14 +933,10 @@ div.title {
 	font-size: 1.333rem !important;
 }
 
-/* .underline {
-	margin: 0 0 50px 0;
-	display: block;
-	border: none;
-	height: 1px;
-	background: #bf55ec;
-	background: linear-gradient(to right, white, #BF55EC, #ff48bc, #ff678a, white);
-} */
+p.title {
+	font-family: 'Bad Script', cursive;
+	color: #DE3163;
+}
 
 .content .title {
 	margin: 0 0 0 0;
