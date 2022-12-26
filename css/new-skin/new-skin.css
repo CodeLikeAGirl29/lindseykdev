@@ -1090,7 +1090,7 @@ p.title {
 	}
 
 	.content.about .info-list ul {
-		margin: -11px -30px 0 -30px;
+		margin: -11px -30px 0;
 	}
 }
 
@@ -1371,7 +1371,7 @@ p.title {
 	}
 
 	.content.works .filter-menu button {
-		margin: 0 15px 0;
+		margin: 0 15px;
 	}
 }
 
@@ -1695,7 +1695,7 @@ p.title {
 
 .contact_form input[type="checkbox"],
 .contact_form input[type="radio"] {
-	margin: 0 5px 0;
+	margin: 0 5px;
 	display: inline;
 	width: auto;
 	height: auto;
@@ -1741,7 +1741,7 @@ p.title {
 	content: '';
 	content: "\02022";
 	font-family: serif;
-	padding: 0 6px 0;
+	padding: 0 6px;
 }
 
 .single-post-text .blog-image,
@@ -2078,7 +2078,7 @@ a.prev.page-numbers {
 }
 
 a.next.page-numbers {
-	padding: 0 15px 0;
+	padding: 0 15px;
 	color: #999;
 }
 
@@ -2326,7 +2326,7 @@ a.next.page-numbers:hover {
 
 .post-comments .post-comment .desc .comment-time,
 .post-comments .post-comment .desc .comment-date {
-	margin: 0 7px 0;
+	margin: 0 7px;
 	padding: 0;
 	display: inline-block;
 	font-size: 14px;
@@ -2431,7 +2431,7 @@ a.next.page-numbers:hover {
 }
 
 .post-comments .form-comment .title {
-	margin: 60px 0 30px 0;
+	margin: 60px 0 30px;
 }
 
 .post-comments .form-comments.row .col {
@@ -2519,7 +2519,7 @@ a.next.page-numbers:hover {
 	}
 
 	.post-comments ul.children {
-		padding: 15px 15px;
+		padding: 15px;
 	}
 
 	.post-comments ul.children ul.children {

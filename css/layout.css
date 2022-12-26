@@ -1,11 +1,3 @@
-/**
-*	 
-*	Version: 2.6
-*	 
-*	 
-*	 
-**/
-
 /* TABLE OF CONTENTS
 	1. Base
 	2. Container
@@ -370,9 +362,9 @@
 	width: 100%;
 	height: 100%;
 	box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
-	border-radius: 0 0 4px 0;
-	-moz-border-radius: 0 0 4px 0;
-	-webkit-border-radius: 0 0 4px 0;
+	border-radius: 0 0 4px;
+	-moz-border-radius: 0 0 4px;
+	-webkit-border-radius: 0 0 4px;
 	-khtml-border-radius: 0 0 4px 0;
 }
 
@@ -393,7 +385,7 @@
 }
 
 .card-started .profile {
-	padding: 210px 50px 50px 50px;
+	padding: 210px 50px 50px;
 	position: relative;
 	height: 100%;
 	background: #ffffff;
@@ -455,7 +447,7 @@
 }
 
 .card-started .profile .image {
-	margin: 0 0 20px 0;
+	margin: 0 0 20px;
 	position: relative;
 	display: inline-block;
 	width: 120px;
@@ -490,7 +482,7 @@
 }
 
 .card-started .profile .title {
-	margin: 40px 0 20px 0;
+	margin: 40px 0 20px;
 	font-size: 32px;
 	color: #171717;
 	line-height: 32px;
@@ -498,7 +490,7 @@
 }
 
 .card-started .profile .subtitle {
-	margin: 0 0 15px 0;
+	margin: 0 0 15px;
 	font-size: 14px;
 	color: #78cc6d;
 	line-height: 14px;
@@ -545,7 +537,7 @@
 	}
 
 	.card-started .profile {
-		padding: 135px 25px 25px 25px;
+		padding: 135px 25px 25px;
 	}
 
 	.card-started .profile.no-photo {
@@ -557,7 +549,7 @@
 	}
 
 	.card-started .profile .image {
-		margin: 0 0 15px 0;
+		margin: 0 0 15px;
 		width: 124px;
 	}
 
@@ -839,7 +831,7 @@
 }
 
 .pricing-items .pricing-item {
-	padding: 0 0 70px 0;
+	padding: 0 0 70px;
 	text-align: center;
 }
 
@@ -860,7 +852,7 @@
 }
 
 .pricing-items .pricing-item .name {
-	margin: 0 0 30px 0;
+	margin: 0 0 30px;
 	font-size: 13px;
 	color: #171717;
 	font-weight: 500;
@@ -868,7 +860,7 @@
 }
 
 .pricing-items .pricing-item .amount {
-	margin: 0 0 25px 0;
+	margin: 0 0 25px;
 }
 
 .pricing-items .pricing-item .amount .number {
@@ -1121,7 +1113,7 @@
 }
 
 .skills-list ul li .name {
-	margin: 0 0 8px 0;
+	margin: 0 0 8px;
 	font-size: 14px;
 	line-height: 14px;
 	color: #626262;
@@ -1194,7 +1186,7 @@
 
 @media (max-width: 560px) {
 	.content.works .title {
-		padding: 0 0 45px 0;
+		padding: 0 0 45px;
 	}
 
 	.content.works .filter-menu {
@@ -1204,7 +1196,7 @@
 	}
 
 	.content.works .filter-menu button {
-		margin: 0 15px 0 0;
+		margin: 0 15px 0;
 	}
 
 	.content.works .grid-items.border-line-v:after {
@@ -1285,12 +1277,12 @@
 }
 
 .box-item .desc {
-	padding: 15px 45px 0 45px;
+	padding: 15px 45px 0;
 	position: relative;
 }
 
 .box-item .desc .name {
-	padding: 0 0 2px 0;
+	padding: 0 0 2px;
 	display: block;
 	font-size: 13px;
 	color: #171717;
@@ -1307,7 +1299,7 @@
 }
 
 .box-item .date {
-	padding: 10px 0 0 0;
+	padding: 10px 0 0;
 	position: absolute;
 	left: 20px;
 	bottom: 20px;
@@ -1338,7 +1330,7 @@
 	6. Contacts
 */
 .content.contacts .map {
-	margin: 0 0 20px 0;
+	margin: 0 0 20px;
 	height: 190px;
 }
 
@@ -1376,7 +1368,7 @@
 }
 
 .mfp-wrap.popup-box-inline .image {
-	padding: 0 0 40px 0;
+	padding: 0 0 40px;
 	font-size: 0;
 }
 
@@ -1596,7 +1588,7 @@
 }
 
 .revs-item .info .name {
-	margin: 6px 0 0 0;
+	margin: 6px 0 0;
 	font-size: 17px;
 	font-weight: 500;
 	color: #323232;
@@ -1984,7 +1976,6 @@
 	width: 100%;
 	left: 0;
 	top: 0;
-	width: 100%;
 	height: 100%;
 	line-height: 90px;
 	font-size: 17px;
