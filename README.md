@@ -2,6 +2,8 @@
 
 This is my personal portfolio. Made by Lindsey. 🎉
 
+[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/lindseykdev/badge/main)](https://www.codefactor.io/repository/github/codelikeagirl29/lindseykdev/overview/main)
+
 ## Screenshots
 
 ![App Screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1671707466/projects/vCard-Resume-CV_1_izdp2v.png)
