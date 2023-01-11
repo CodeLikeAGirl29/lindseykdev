@@ -2608,7 +2608,7 @@
  * @author Tom De Caluwé
  * @license The MIT License (MIT)
  */
-(function($, window, document) {
+(function($, window, document, undefined) {
 
 	/**
 	 * Creates the autoplay plugin.
@@ -2840,7 +2840,7 @@
  * @author David Deutsch
  * @license The MIT License (MIT)
  */
-(function($, window, document) {
+(function($, window, document, undefined) {
 	'use strict';
 
 	/**
